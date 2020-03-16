@@ -40,7 +40,7 @@
   "orientation": "portrait-primary",
   "description": "Blog yang membahas Tutorial Blogger, Android, Games, Komputer, Template, Bisnis, Tips Adsense, Tips Youtube, Tips SEO, Web Design dan Teknologi",
   "serviceworker": {
-   "src": "https://raw.githubusercontent.com/Serieswans/PWA-Serieswans/new/master/service-worker-serieswans"
+   "src": "https://raw.githubusercontent.com/Serieswans/PWA-Serieswans/blob/master/service-worker-serieswans.js"
   },
   "prefer_related_applications": true
 }
