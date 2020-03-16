@@ -1,7 +1,7 @@
 {
-  "name": "serieswans.com",
-  "short_name": serieswans",
-  "icons": [
+  "name": "Serieswans.com",
+  "short_name": "Serieswans",
+   "icons": [
     {
       "src": "https://1.bp.blogspot.com/-uRG7RLQjGT4/Xm9qzORDX1I/AAAAAAAABkw/pqPGG3XDgcYfgy9awHIyYrkhVnS7JrRigCLcBGAsYHQ/s1600/2289LOGO.ico",
       "type": "image/png",
@@ -40,7 +40,7 @@
   "orientation": "portrait-primary",
   "description": "Blog yang membahas Tutorial Blogger, Android, Games, Komputer, Template, Bisnis, Tips Adsense, Tips Youtube, Tips SEO, Web Design dan Teknologi",
   "serviceworker": {
-   "src": "https://raw.githubusercontent.com/Serieswans/PWA-Serieswans/master/service-worker-serieswans.js"
+   "src": "https://raw.githubusercontent.com/achmadsentosa22/clock/master/pwabuilder-sw.js"
   },
   "prefer_related_applications": true
 }
